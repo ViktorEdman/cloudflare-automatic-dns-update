@@ -2,9 +2,9 @@
 
 This script does three things:
 
-1.Checks your external IP
-2.Checks your domain's A-record
-3.If these match, no action is taken, if they do not match, the A-record is updated.
+1. Checks your external IP
+2. Checks your domain's A-record
+3. If these match, no action is taken, if they do not match, the A-record is updated.
 
 Perfect for servers deployed to dynamic IP:s!
 
