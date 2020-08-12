@@ -8,7 +8,7 @@ This script does three things:
 
 Perfect for servers deployed to dynamic IP:s!
 
-#How to use
+# How to use
 
 1. Download or clone the repository
 2. Edit settings.py to configure the script for your specific domain
